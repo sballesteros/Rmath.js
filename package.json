@@ -1,5 +1,5 @@
 {
-  "name": "Rmath.js",
+  "name": "rmath.js",
   "version": "0.0.0",
   "description": "An native port of the standalone Rmath library",
   "main": "index.js",

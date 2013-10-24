@@ -1,0 +1,32 @@
+{
+  "name": "Rmath.js",
+  "version": "0.0.0",
+  "description": "An native port of the standalone Rmath library",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/plom-io/Rmath.js.git"
+  },
+  "keywords": [
+    "stats",
+    "pdf",
+    "cdf",
+    "distributions",
+    "Rmath",
+    "libRmath"
+  ],
+  "author": "Sebastien Ballesteros",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/plom-io/Rmath.js/issues"
+  },
+  "dependencies": {
+    "es6-shim": "~0.9.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0"
+  }
+}

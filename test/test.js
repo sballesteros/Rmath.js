@@ -1,6 +1,8 @@
 var rstat = require('..')
   , assert = require('assert');
 
+//TODO adapt R/tests/d-p-q-r-tests.R
+
 describe('rmath', function(){
 
   describe('dnorm', function(){
